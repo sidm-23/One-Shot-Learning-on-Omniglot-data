@@ -34,6 +34,4 @@ One shot learning using siamese twins architecture on Omniglot dataset
     * <strong>3.y_train_data.csv</strong>: training data with y values from preprocessed dataset
     * <strong>4.x_test_data.csv</strong>: test data with x values from preprocessed dataset
     * <strong>4.y_test_data.csv</strong>: test data with y values from preprocessed dataset
-* <strong>[ Images ](https://github.com/awesomeahi95/Hotel_Review_NLP/tree/master/Images)</strong>: folder containing images used for README and presentation pdf
-* <strong>[ Models ](https://github.com/awesomeahi95/Hotel_Review_NLP/tree/master/Models)</strong>: folder containing trained models saved with pickle
-    * <strong>Adabooost.pkl, Decision Tree.pkl, KNN.pkl, Logistic Regression.pkl, Naive Bayes.pkl, Neural Network.pkl, Random Forest.pkl, Stacking.pkl, SVM.pkl, Voting.pkl, XGBoost.pkl</strong>
+
