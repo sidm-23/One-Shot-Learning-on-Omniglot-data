@@ -25,7 +25,6 @@ One shot learning using siamese twins architecture on Omniglot dataset
 ## File Descriptions
 <details>
 <a name="File_Description"></a>
-<summary>Show/Hide</summary>
 <br>
     
 * <strong>[ Data ](https://github.com/awesomeahi95/Hotel_Review_NLP/tree/master/Data)</strong>: folder containing all data files
