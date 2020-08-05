@@ -26,9 +26,10 @@ One shot learning using siamese twins architecture on Omniglot dataset
 <a name="File_Description"></a>
 <br>
     
-* <strong>[ File Structure ]</strong:
+* <strong> [ File Structure] </strong>:
   >image_background  
->>Gujarati
->>>Character01
->>>>20 images
+  >>Gujarati
+  >>>Character01
+  >>>>20 images
 
+![Raw Dataset](https://raw.githubusercontent.com/brendenlake/omniglot/master/omniglot_grid.jpg)
