@@ -21,3 +21,20 @@ One shot learning using siamese twins architecture on Omniglot dataset
    * [ 5. Neural Network Modelling ](#Neural_Network_Modelling)
    * [ 6. Revaluation and Deployment ](#Revaluation)
 </details>
+
+## File Descriptions
+<details>
+<a name="File_Description"></a>
+<summary>Show/Hide</summary>
+<br>
+    
+* <strong>[ Data ](https://github.com/awesomeahi95/Hotel_Review_NLP/tree/master/Data)</strong>: folder containing all data files
+    * <strong>1.tripadvisor_scraped_hotel_reviews.csv</strong>: webscraped data before any changes
+    * <strong>2.hotel_reviews_structured.csv</strong>: data after balancing and cleaning
+    * <strong>3.x_train_data.csv</strong>: training data with x values from preprocessed dataset
+    * <strong>3.y_train_data.csv</strong>: training data with y values from preprocessed dataset
+    * <strong>4.x_test_data.csv</strong>: test data with x values from preprocessed dataset
+    * <strong>4.y_test_data.csv</strong>: test data with y values from preprocessed dataset
+* <strong>[ Images ](https://github.com/awesomeahi95/Hotel_Review_NLP/tree/master/Images)</strong>: folder containing images used for README and presentation pdf
+* <strong>[ Models ](https://github.com/awesomeahi95/Hotel_Review_NLP/tree/master/Models)</strong>: folder containing trained models saved with pickle
+    * <strong>Adabooost.pkl, Decision Tree.pkl, KNN.pkl, Logistic Regression.pkl, Naive Bayes.pkl, Neural Network.pkl, Random Forest.pkl, Stacking.pkl, SVM.pkl, Voting.pkl, XGBoost.pkl</strong>
