@@ -23,7 +23,6 @@ One shot learning using siamese twins architecture on Omniglot dataset
 </details>
 
 ## File Descriptions
-<details>
 <a name="File_Description"></a>
 <br>
     
