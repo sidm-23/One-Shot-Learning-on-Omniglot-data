@@ -13,7 +13,7 @@ One shot learning using siamese twins architecture on Omniglot dataset
 2. [ Technologies Used ](#Technologies_Used)    
 3. [ Structure ](#Structure)
 4. [ Executive Summary ](#Executive_Summary)
-   * [ 1. Webscraping, Early EDA, and Cleaning ](#Webscraping_Early_EDA_and_Cleaning)
+   * [ 1. Why use One-Shot Learning ](#Why use One-Shot Learningg)
        * [ Webscraping ](#Webscraping)
        * [ Early EDA and Cleaning](#Early_EDA_and_Cleaning)
    * [ 2. Further EDA and Preprocessing ](#Further_EDA_and_Preprocessing) 
@@ -54,6 +54,8 @@ One shot learning using siamese twins architecture on Omniglot dataset
 ## Executive Summary
 
 
-<a name="Webscraping_Early_EDA_and_Cleaning"></a>
-### Webscraping, Early EDA, and Cleaning:
+<a name="Why use One-Shot Learning"></a>
+### Why use One-Shot Learning
+In conventional image processing, an image is put through a CNN(Convolution Neural Network) to extract features from which an object/edge is detected or classified, but this is very computationally intense and requires a very large training set to alleviate all bias. Another issue is that when a new set of training data is added the model has to be re-trained. So one-shot learning proposes to extract features from a small set of training data and make a faster prediction based on similarity.
+Ex Face unlock in phones take only multiple images of and feature for your face and store it on device but when a new face is added it does not have re-train the entire model, it extracts the features from each image and compares for similarity thus reducing the time it takes to unlock while still being reliable.
 <br>
