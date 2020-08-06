@@ -41,7 +41,6 @@ One shot learning using siamese twins architecture on Omniglot dataset
 ## Tecnologies Used:
 <a name="Technologies_Used"></a>
 <br>
-    
 * <strong>Python</strong>
 * <strong>Pandas</strong>
 * <strong>Numpy</strong>
@@ -50,5 +49,11 @@ One shot learning using siamese twins architecture on Omniglot dataset
 * <strong>Scikit-Learn</strong>
 * <strong>Keras</strong>
 * <strong>Tensorflow</strong>
-</details>
 
+<a name="Executive_Summary"></a>
+## Executive Summary
+
+
+<a name="Webscraping_Early_EDA_and_Cleaning"></a>
+### Webscraping, Early EDA, and Cleaning:
+<br>
