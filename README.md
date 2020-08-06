@@ -9,7 +9,7 @@ One shot learning using siamese twins architecture on Omniglot dataset
 
 1. [ File Descriptions ](#File_Description)
   * Dataset
-  * [File Structure] (#File Structure)
+  * File Structure
 2. [ Technologies Used ](#Technologies_Used)    
 3. [ Structure ](#Structure)
 4. [ Executive Summary ](#Executive_Summary)
@@ -38,4 +38,18 @@ One shot learning using siamese twins architecture on Omniglot dataset
   >>>Character01
   >>>>20 images
 
+## Tecnologies Used:
+<details>
+<a name="Technologies_Used"></a>
+<br>
+    
+* <strong>Python</strong>
+* <strong>Pandas</strong>
+* <strong>Numpy</strong>
+* <strong>Matplotlib</strong>
+* <strong>Open CV</strong>
+* <strong>Scikit-Learn</strong>
+* <strong>Keras</strong>
+* <strong>Tensorflow</strong>
+</details>
 
