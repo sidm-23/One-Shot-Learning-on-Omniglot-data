@@ -39,7 +39,6 @@ One shot learning using siamese twins architecture on Omniglot dataset
   >>>>20 images
 
 ## Tecnologies Used:
-<details>
 <a name="Technologies_Used"></a>
 <br>
     
