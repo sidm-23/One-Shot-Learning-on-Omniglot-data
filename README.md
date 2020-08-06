@@ -27,7 +27,7 @@ One shot learning using siamese twins architecture on Omniglot dataset
 ## File Descriptions
 <a name="File_Description"></a>
 <br>
-* <strong> [Dataset (https://github.com/brendenlake/omniglot) ] </strong>: The Omniglot dataset is a collection of 1623 hand-drawn characters from 50 alphabets. For every character there are just 20 examples, each drawn by a different person at resolution 105x105. Each image is paired with stroke data, a sequence of [x,y,t] coordinates with time (t) in milliseconds. This data is split as 30 alphabets used for training and the other 20 used for validation of the model.
+* <strong> [Dataset](https://github.com/brendenlake/omniglot) </strong>: The Omniglot dataset is a collection of 1623 hand-drawn characters from 50 alphabets. For every character there are just 20 examples, each drawn by a different person at resolution 105x105. Each image is paired with stroke data, a sequence of [x,y,t] coordinates with time (t) in milliseconds. This data is split as 30 alphabets used for training and the other 20 used for validation of the model.
 
 ![Raw Dataset](https://raw.githubusercontent.com/brendenlake/omniglot/master/omniglot_grid.jpg)
   
