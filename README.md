@@ -14,14 +14,6 @@ One shot learning using siamese twins architecture on Omniglot dataset
 3. [ Structure ](#Structure)
 4. [ Executive Summary ](#Executive_Summary)
    * [ 1. Why use One-Shot Learning ](#Why use One-Shot Learningg)
-       * [ Webscraping ](#Webscraping)
-       * [ Early EDA and Cleaning](#Early_EDA_and_Cleaning)
-   * [ 2. Further EDA and Preprocessing ](#Further_EDA_and_Preprocessing) 
-   * [ 3. Modelling and Hyperparameter Tuning ](#Modelling)
-   * [ 4. Evaluation ](#Evaluation)
-       * [ Future Improvements ](#Future_Improvements)
-   * [ 5. Neural Network Modelling ](#Neural_Network_Modelling)
-   * [ 6. Revaluation and Deployment ](#Revaluation)
 </details>
 
 ## File Descriptions
