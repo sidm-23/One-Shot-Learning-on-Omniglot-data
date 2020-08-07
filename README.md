@@ -13,7 +13,7 @@ One shot learning using siamese twins architecture on Omniglot dataset
 2. [ Technologies Used ](#Technologies_Used)    
 3. [ Structure ](#Structure)
 4. [ Executive Summary ](#Executive_Summary)
-   * [ 1. Why use One-Shot Learning ]( #Why use One-Shot Learningg)
+   * [ 1. Why use One-Shot Learning ](#Why use One-Shot Learning)
 </details>
 
 ## File Descriptions
