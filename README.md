@@ -32,7 +32,6 @@ One shot learning using siamese twins architecture on Omniglot dataset
 
 ## Tecnologies Used:
 <a name="Technologies_Used"></a>
-<br>
 * <strong>Python</strong>
 * <strong>Pandas</strong>
 * <strong>Numpy</strong>
